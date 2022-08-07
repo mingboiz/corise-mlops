@@ -1,0 +1,4 @@
+*.DS_Store
+*.yaml
+mlopsproject
+app/__pycache__/
